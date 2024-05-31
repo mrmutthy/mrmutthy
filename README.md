@@ -1,8 +1,8 @@
 ## Hi there 👋
-[Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmutthy&show_icons=true&theme=dark)<br>
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmutthy&show_icons=true&theme=dark)<br>
 <br>
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmutthy&layout=compact)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmutthy&layout=compact)<br>
 <!--
 **mrmutthy/mrmutthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
