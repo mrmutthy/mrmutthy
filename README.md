@@ -1,4 +1,8 @@
-## Hi there 👋
+## Ola 👋
+
+- Me chamo Guilherme Lago e sou graduando em Engenharia de Software <br>
+- Atualmente estou no 3° Periodo, com experiencia em C, Java, Sql, Metodologias Ageis, etc.<br>
+
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmutthy&show_icons=true&theme=dark)<br>
 <br>
 
