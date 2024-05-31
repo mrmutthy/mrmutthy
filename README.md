@@ -1,4 +1,4 @@
-## Ola 👋
+<!--## Ola 👋
 
 - Me chamo Guilherme Lago e sou graduando em Engenharia de Software <br>
 - Atualmente estou no 3° Periodo, com experiencia em C, Java, Sql, Metodologias Ageis, etc.<br>
